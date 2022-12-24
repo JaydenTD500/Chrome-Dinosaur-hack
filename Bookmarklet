@@ -1,1 +1,1 @@
-javascript:(function()%7BRunner.instance_.gameOver%3D()%20%3D%3E%20%7B%7D%0A%0ARunner.instance_.setSpeed(500000)%7D)()%3B
+javascript:(function()%7Bvar%20_0x2c89%3D%5B%22%5Cx67%5Cx61%5Cx6D%5Cx65%5Cx4F%5Cx76%5Cx65%5Cx72%22%2C%22%5Cx69%5Cx6E%5Cx73%5Cx74%5Cx61%5Cx6E%5Cx63%5Cx65%5Cx5F%22%2C%22%5Cx73%5Cx65%5Cx74%5Cx53%5Cx70%5Cx65%5Cx65%5Cx64%22%5D%3BRunner%5B_0x2c89%5B1%5D%5D%5B_0x2c89%5B0%5D%5D%3D%20()%3D%3E%7B%7D%3BRunner%5B_0x2c89%5B1%5D%5D%5B_0x2c89%5B2%5D%5D(5000)%7D)()%3B
